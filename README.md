@@ -1,7 +1,7 @@
 # PlusMinus
-Nim : 23422029 <br>
-Nama : Moch Rafli Muchibbin <br>
-Kelas : TIF22A
+Nim : 23422031 <br>
+Nama : Achmad Farid<br>
+Kelas : TIF22A Pagi
 
 # Tugas Metode Numerik
 Menyelesaikan problem pada HackerRank tentang plus minus (https://www.hackerrank.com/challenges/plus-minus/problem)  dengan cetak rasio dari nilai-nilai positif, negatif, dan nol dalam array. Setiap nilai harus dicetak pada baris terpisah dengan 6 angka di belakang desimal. Fungsi tidak boleh mengembalikan nilai.
